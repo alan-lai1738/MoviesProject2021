@@ -1,0 +1,11 @@
+D, 20, Dramatic Director, Very Dramatic Movie, 2000
+F, 10, Yukina Minato, BanG Dream!: Episode of Roselia I, 2018
+C, 20, Ran Mitake, Afterglow, Moca Aoba 1 2014
+C, 10, Af ro, Yuru Camp, Rin Shima 3 2021
+D, 10, Coen Brothers, No Country for Old Men, 2007
+D, 10, Kasumi Toyama, BanG Dream!, 2018
+
+
+C, 10, Victor Fleming, The Wizard of Oz, Judy Garland 7 1939
+F, 10, Nora Ephron, Sleepless in Seattle, 1993
+D, 10, Barry Levinson, Good Morning Vietnam, 1988
